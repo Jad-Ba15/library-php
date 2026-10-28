@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+vendor/
+
+# Secrets / local config
+.env
+composer.phar
+
+# Build output and logs
+dist/
+*.log
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
